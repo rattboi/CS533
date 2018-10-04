@@ -1,0 +1,38 @@
+Treat it like an Agile software project
+
+  - Your deliverable is your "understanding" of the paper.
+
+  - During first sprint (5-10 minutes) develop your initial understanding. What type of paper is it? What does it contain?
+    * Read abstract and conclusion
+    * Quickly study all the figures/graphs
+    * If time allows, read the entire introduction
+    * If time allows, read the first and last paragraph of every section
+    * Keep to a strict time limit (e.g. 10 minutes)
+    * Put the paper away for several minutes, an hour or even a day to let you think about the paper's type, contents, contribution, etc
+
+  - Sprint #2
+    * Complete any unfinished parts of previous sprint
+    * read the first sentence of every single paragraph in the paper.
+    * read the entire design and implementation sections
+    * Take notes as needed. Especially note things that confuse you.
+    * Create a written summary of the paper for your own use
+    * Time Limit: one hour. Then put the paper away, read something else, etc.
+
+  - Sprint #3
+    * Complete any unfinished parts of the previous sprint
+    * Read the rest of the paper
+    * Go deeper if you want/need to
+      e.g. re-read sections
+      e.g find related papers and materials
+    * Keep each sprint time-bounded (e.g. one hour)
+    * Update your written summary during/after each sprint
+
+  - Analysis
+    * Along the way you will build up an analysis
+    * What was the SOTA prior to the research and how did this research advance the SOTA?
+    * Are the ideas/contents of the paper relevant today? What is its importance?
+    * Is the paper notable for something other than what the authors intended?
+    * Does this work inspire or influence you in some way?
+    * Did you find limitations, omissions or other issues with the work?
+
+

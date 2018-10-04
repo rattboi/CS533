@@ -1,0 +1,29 @@
+Typical Structure of a Progress Paper
+
+- Introduction (motivation, the new idea, summary of results)
+  * 3 ways to say the same thing. It's a good way to see what they were going for
+
+- Background Info (the current SOTA (state of the art))
+  * Good to understand current SOTA, so you know where it began, so you know where it moved to
+  * Important to evaluate in relation to the state of the art at the time
+    * Did they go in a direction that lead to where we are today?
+
+- Design
+  * Usually the meat of the paper
+  * Often the longest section, most information
+
+- Implementation
+  * They're trying to separate out what they did because they ran out of time
+  * Lots of excuse-making (wanted to do x, but only got to 3/4 x)
+
+- Evaluation
+  * The authors prove that their contribution is valuable. 
+  * Simulations, etc
+  * "Performed as well as before, but with less heat"
+
+- Related Work (can often ignore for a class like this)
+  * Politics section
+  * Distinguish themselves from similar work
+  * "Standing on the shoulders of giants"
+
+- Conclusion
